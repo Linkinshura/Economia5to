@@ -1,4 +1,4 @@
-Trabajo Práctico: PBI, Coeficiente de Gini y Desarrollo Humano en Argentina
+# Trabajo Práctico: PBI, Coeficiente de Gini y Desarrollo Humano en Argentina
 
 Datos del alumno
 
@@ -7,7 +7,7 @@ Datos del alumno
 
 ---
 
-Consignas
+## Consignas
 
 1. Busque información sobre la evolución del PBI Argentino en los últimos 30 años.
 
@@ -23,7 +23,7 @@ Consignas
 
 ---
 
-Respuestas
+## Respuestas
 
 1. Evolución del PBI argentino en los últimos 30 años
 
